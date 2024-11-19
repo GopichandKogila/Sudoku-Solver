@@ -86,4 +86,3 @@ print_board(board)
 
 
 
-Explain this , take time or give me a document of explanation. I need to undertsand this any way
